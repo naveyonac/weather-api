@@ -1,0 +1,23 @@
+[
+    {
+        "purpose": "outer",
+        "type": "jacket",
+        "color": "blue",
+        "brand": "columbia",
+        "condition": "snow"
+    },
+    {
+        "purpose": "outer",
+        "type": "hoodie",
+        "color": "navy",
+        "brand": "WVU",
+        "condition": "cold"
+    },
+    {
+        "purpose": "outer",
+        "type": "jacket",
+        "color": "black",
+        "brand": "walsingham",
+        "condition": "cold"
+    }
+]
