@@ -3,7 +3,7 @@ const clothing = mongoose.model('clothingModel')
 
 module.exports = {
     index: (req, res) => {
-        clothing.find({}).then(result => {
+        clothing.find().then(result => {
             res.json(result)
         })
     },
